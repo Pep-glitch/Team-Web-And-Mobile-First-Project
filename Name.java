@@ -5,5 +5,6 @@ class Name
     {
       
         System.out.println("Welcome To Java");
+        system.out.println("Whatever");
     }
 }
